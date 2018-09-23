@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123 40">
+    <defs>
+        <style>
+            .cls-1{fill:#080808;font-size:34px;font-family:Helvetica}.cls-2{fill:#e04545}
+        </style>
+    </defs>
+    <text id="HOMEZ" class="cls-1" transform="translate(123 32)">
+        <tspan x="-122.774" y="0">HOME</tspan><tspan y="0" class="cls-2">Z</tspan>
+    </text>
+</svg>

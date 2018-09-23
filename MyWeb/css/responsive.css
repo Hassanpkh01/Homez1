@@ -1,0 +1,163 @@
+@media only screen and (max-width: 300px) {
+
+}
+@media only screen and (min-width: 300px) {
+
+}
+
+@media only screen and (min-width: 600px) {
+
+}
+@media only screen and (max-width: 890px){
+
+    /*  <!--  nav  -->  */
+
+    nav .brand-logo{
+        margin-right: 43%;
+    }
+
+    .login {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-content: space-around;
+    }
+
+    .login-choose {
+        justify-content: space-around;
+    }
+
+    .login-page form {
+        margin-left: 50px;
+    }
+
+    .login-or {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-content: space-between;
+    }
+
+    .modal {
+        width: 350px;
+    }
+
+    .login-choose div {
+        width: 200px;
+        margin-right: 70px;
+        margin-bottom: 30px;
+    }
+
+    .login-choose p.k {
+        margin-right: 50px;
+    }
+
+    .login-or hr {
+        width: 38%;
+    }
+
+    /*  <!--  /nav  -->  */
+
+    /*  <!--  new-homes -->  */
+
+    .homes-sec {
+        margin-top: 10px;
+    }
+
+    .new-homes::after {
+        height: 500px;
+    }
+
+    /*  <!--  /new-homes -->  */
+
+}
+@media only screen and (min-width: 900px){
+    .container {
+        width: 95%;
+    }
+}
+@media only screen and (max-width: 1000px) {
+
+    /*  <!--  nav  -->  */
+
+    nav .brand-logo{
+        margin-right: 43%;
+    }
+
+    /*  <!--  /nav  -->  */
+
+    /*  <!--  selected-homes  -->  */
+    .homes-carousle {
+        display: flex;
+        flex-direction: column-reverse;
+        align-content: space-around;
+        justify-content: center;
+    }
+
+    .homes-carousle-items {
+        display: flex;
+        justify-content: center;
+    }
+
+    .homes-carousle-items .items {
+        top: 60px;
+        right: 8%;
+    }
+
+    .homes-carousle-items .counter {
+        position: relative;
+        left: 11%;
+    }
+
+    .homes-carousle-description {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+    }
+
+    .homes-carousle-description p {
+        position: relative;
+        left: 28%;
+    }
+
+    /*  <!--  /selected-homes  -->  */
+
+    .img-app {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .homes-carousle-description p {
+        position: relative;
+        left: 6%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+
+/*  <!--  /selected-homes  -->  */
+
+}
+@media only screen and (max-width: 1500px) {
+
+}
+@media only screen and (min-width: 1500px) {
+    .container {
+        width: 85%;
+    }
+}
+@media only screen and (max-width: 1800px) {
+
+}
+@media only screen and (min-width: 1800px) {
+    .container {
+        width: 80%;
+    }
+}
